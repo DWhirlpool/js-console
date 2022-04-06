@@ -26,7 +26,7 @@
 
     var frog;
     if( inBrowser ) {
-      frog = ['%c%c',
+      frog = [' ',
         "         _,-.  ",
         " ,-. ,--'  o ) ",
         " \\(,' '  ,,-' ",
